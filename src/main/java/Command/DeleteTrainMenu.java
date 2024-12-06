@@ -2,10 +2,14 @@ package Command;
 
 import java.util.List;
 import java.util.Scanner;
+import java.util.logging.Logger;
+
+import logging.LoggerConfig;
 import models.PassengerTrain;
 
 public class DeleteTrainMenu implements Command {
     private List<PassengerTrain> trains;
+    private static final Logger logger = LoggerConfig.getLogger();
 
     public DeleteTrainMenu(List<PassengerTrain> trains) {
         this.trains = trains;
@@ -21,6 +25,7 @@ public class DeleteTrainMenu implements Command {
         if (trainToDelete != null) {
             trains.remove(trainToDelete);
             System.out.println("Потяг з номером " + trainNumber + " видалено.");
+            logger.info("Потяг з номером " + trainNumber + " видалено.");
         } else {
             System.out.println("Потяг з номером " + trainNumber + " не знайдено.");
         }

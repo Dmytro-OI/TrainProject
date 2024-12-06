@@ -1,9 +1,8 @@
-package org.example;
+package Command;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import Command.Menu;
 import models.PassengerTrain;
 
 public class Main {

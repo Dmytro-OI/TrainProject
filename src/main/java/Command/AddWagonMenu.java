@@ -2,12 +2,15 @@ package Command;
 
 import java.util.List;
 import java.util.Scanner;
+import java.util.logging.Logger;
+
+import logging.LoggerConfig;
 import models.PassengerTrain;
 import models.Wagon;
 
 class AddWagonMenu implements Command {
     private List<PassengerTrain> trains;
-
+    private static final Logger logger = LoggerConfig.getLogger();
     public AddWagonMenu(List<PassengerTrain> trains) {
         this.trains = trains;
     }
@@ -34,6 +37,7 @@ class AddWagonMenu implements Command {
             Wagon newWagon = new Wagon(passengerCount, baggageCount, comfortLevel);
             train.addWagon(newWagon);
             System.out.println("Вагон успішно додано до потяга номер " + trainNumber);
+            logger.info("Вагон успішно додано до потяга номер " + trainNumber);
         } else {
             System.out.println("Потяг з номером " + trainNumber + " не знайдено.");
         }

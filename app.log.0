@@ -1,0 +1,242 @@
+лист. 30, 2024 12:38:21 AM Command.SaveTrainsToFileMenu execute
+WARNING: Помилка при читанні файлу: E:\файл\tain.txt (The system cannot find the file specified)
+лист. 30, 2024 12:38:21 AM logging.LoggerConfig sendCriticalErrorEmail
+SEVERE: Критична помилка: Помилка читання файлу: E:\файл\tain.txt (The system cannot find the file specified)
+лист. 30, 2024 12:38:22 AM Command.SaveTrainsToFileMenu execute
+INFO: Потяги успішно збережено у файл.
+лист. 30, 2024 12:47:48 AM Command.AddTrainMenu execute
+INFO: Потяг з номером 101 додано.
+лист. 30, 2024 12:59:26 AM Command.AddTrainMenu execute
+INFO: Потяг з номером 102 додано.
+лист. 30, 2024 12:59:43 AM Command.AddWagonMenu addWagon
+INFO: Вагон успішно додано до потяга номер 102
+лист. 30, 2024 1:02:58 AM Command.AddTrainMenu execute
+INFO: Потяг з номером 101 додано.
+лист. 30, 2024 1:07:10 AM Command.AddTrainMenu execute
+INFO: Потяг з номером 101 додано.
+лист. 30, 2024 1:09:29 AM Command.SaveTrainsToFileMenu execute
+WARNING: Помилка при читанні файлу: E:\файл\train.txt (The system cannot find the file specified)
+лист. 30, 2024 1:09:29 AM logging.LoggerConfig sendCriticalErrorEmail
+SEVERE: Критична помилка: Помилка читання файлу: E:\файл\train.txt (The system cannot find the file specified)
+лист. 30, 2024 1:09:30 AM logging.LoggerConfig sendCriticalErrorEmail
+SEVERE: Не вдалося надіслати e-mail: IOException while sending message
+лист. 30, 2024 1:09:30 AM Command.SaveTrainsToFileMenu execute
+INFO: Потяги успішно збережено у файл.
+лист. 30, 2024 1:10:25 AM Command.SaveTrainsToFileMenu execute
+INFO: Існуючі потяги успішно завантажено з файлу.
+лист. 30, 2024 1:10:25 AM Command.SaveTrainsToFileMenu execute
+INFO: Потяги успішно збережено у файл.
+лист. 30, 2024 1:12:41 AM Command.SaveTrainsToFileMenu execute
+INFO: Існуючі потяги успішно завантажено з файлу.
+лист. 30, 2024 1:12:41 AM Command.SaveTrainsToFileMenu execute
+INFO: Потяги успішно збережено у файл.
+лист. 30, 2024 1:12:48 AM Command.AddTrainMenu execute
+INFO: Потяг з номером 191 додано.
+лист. 30, 2024 1:12:54 AM Command.SaveTrainsToFileMenu execute
+INFO: Існуючі потяги успішно завантажено з файлу.
+лист. 30, 2024 1:12:54 AM Command.SaveTrainsToFileMenu execute
+INFO: Додаємо новий потяг з номером: 191
+лист. 30, 2024 1:12:54 AM Command.SaveTrainsToFileMenu execute
+INFO: Потяги успішно збережено у файл.
+лист. 30, 2024 1:14:42 AM Command.AddTrainMenu execute
+INFO: Потяг з номером 101 додано.
+лист. 30, 2024 1:14:44 AM Command.SaveTrainsToFileMenu execute
+INFO: Існуючі потяги успішно завантажено з файлу.
+лист. 30, 2024 1:14:44 AM Command.SaveTrainsToFileMenu execute
+INFO: Додаємо новий потяг з номером: 101
+лист. 30, 2024 1:14:44 AM Command.SaveTrainsToFileMenu execute
+INFO: Потяги успішно збережено у файл.
+лист. 30, 2024 1:15:15 AM Command.SaveTrainsToFileMenu execute
+WARNING: Помилка при читанні файлу: E:\файл\train.txt (The system cannot find the file specified)
+лист. 30, 2024 1:15:15 AM logging.LoggerConfig sendCriticalErrorEmail
+SEVERE: Критична помилка: Помилка читання файлу: E:\файл\train.txt (The system cannot find the file specified)
+лист. 30, 2024 1:15:17 AM Command.SaveTrainsToFileMenu execute
+INFO: Потяги успішно збережено у файл.
+лист. 30, 2024 1:15:51 AM Command.SaveTrainsToFileMenu execute
+WARNING: Помилка при читанні файлу: E:\файл\train.txt (The system cannot find the file specified)
+лист. 30, 2024 1:15:51 AM logging.LoggerConfig sendCriticalErrorEmail
+SEVERE: Критична помилка: Помилка читання файлу: E:\файл\train.txt (The system cannot find the file specified)
+лист. 30, 2024 1:15:52 AM logging.LoggerConfig sendCriticalErrorEmail
+SEVERE: Не вдалося надіслати e-mail: IOException while sending message
+лист. 30, 2024 1:15:52 AM Command.SaveTrainsToFileMenu execute
+INFO: Потяги успішно збережено у файл.
+лист. 30, 2024 1:17:01 AM Command.SaveTrainsToFileMenu execute
+WARNING: Помилка при читанні файлу: E:\файл\train.txt (The system cannot find the file specified)
+лист. 30, 2024 1:17:01 AM logging.LoggerConfig sendCriticalErrorEmail
+SEVERE: Критична помилка: Помилка читання файлу: E:\файл\train.txt (The system cannot find the file specified)
+лист. 30, 2024 1:17:02 AM Command.SaveTrainsToFileMenu execute
+INFO: Потяги успішно збережено у файл.
+лист. 30, 2024 1:19:04 AM logging.LoggerConfig sendCriticalErrorEmail
+SEVERE: Критична помилка: Помилка читання файлу: E:\файл\train.txt (The system cannot find the file specified)
+лист. 30, 2024 1:21:22 AM logging.LoggerConfig sendCriticalErrorEmail
+SEVERE: Критична помилка: Помилка читання файлу: E:\файл\train.txt (The system cannot find the file specified)
+лист. 30, 2024 1:21:52 AM logging.LoggerConfig sendCriticalErrorEmail
+SEVERE: Критична помилка: Помилка читання файлу: E:\файл\train.txt (The system cannot find the file specified)
+����. 30, 2024 2:12:01 AM Command.AddTrainMenu execute
+INFO: ����� � ������� 1002 ������.
+����. 30, 2024 2:12:01 AM Command.AddWagonMenu addWagon
+INFO: ����� ������ ������ �� ������ ����� 1001
+����. 30, 2024 2:12:01 AM Command.CalculateTotalPassengersMenu execute
+INFO: �������� ������� �������� � ����� � ������� 1001: 80
+����. 30, 2024 2:12:01 AM Command.DeleteTrainMenu execute
+INFO: ����� � ������� 1001 ��������.
+����. 30, 2024 2:12:01 AM Command.RemoveWagonMenu execute
+INFO: ����� ������ ��������.
+����. 30, 2024 2:12:02 AM Command.SaveTrainsToFileMenu execute
+INFO: ������� ������ ������ ����������� � �����.
+����. 30, 2024 2:12:02 AM Command.SaveTrainsToFileMenu execute
+INFO: ������ ����� ����� � �������: 123
+����. 30, 2024 2:12:02 AM Command.SaveTrainsToFileMenu execute
+INFO: ����� ������ �� ������ � �������: 123
+����. 30, 2024 2:12:02 AM Command.SaveTrainsToFileMenu execute
+INFO: ����� ������ �� ������ � �������: 123
+����. 30, 2024 2:12:02 AM Command.SaveTrainsToFileMenu execute
+INFO: ������ ������ ��������� � ����.
+лист. 30, 2024 2:13:17 AM Command.DeleteTrainMenu execute
+INFO: Потяг з номером 1001 видалено.
+лист. 30, 2024 2:13:17 AM Command.AddWagonMenu addWagon
+INFO: Вагон успішно додано до потяга номер 1001
+лист. 30, 2024 2:13:17 AM Command.RemoveWagonMenu execute
+INFO: Вагон успішно видалено.
+лист. 30, 2024 2:13:17 AM Command.SaveTrainsToFileMenu execute
+INFO: Існуючі потяги успішно завантажено з файлу.
+лист. 30, 2024 2:13:17 AM Command.SaveTrainsToFileMenu execute
+INFO: Потяг з номером 123 вже існує. Перевіряємо вагони.
+лист. 30, 2024 2:13:17 AM Command.SaveTrainsToFileMenu execute
+INFO: Потяги успішно збережено у файл.
+лист. 30, 2024 2:13:17 AM Command.CalculateTotalPassengersMenu execute
+INFO: Загальна кількість пасажирів у потязі з номером 1001: 80
+лист. 30, 2024 2:13:17 AM Command.AddTrainMenu execute
+INFO: Потяг з номером 1002 додано.
+лист. 30, 2024 2:14:01 AM Command.DeleteTrainMenu execute
+INFO: Потяг з номером 1001 видалено.
+лист. 30, 2024 2:14:01 AM Command.AddWagonMenu addWagon
+INFO: Вагон успішно додано до потяга номер 1001
+лист. 30, 2024 2:14:01 AM Command.RemoveWagonMenu execute
+INFO: Вагон успішно видалено.
+лист. 30, 2024 2:14:02 AM Command.SaveTrainsToFileMenu execute
+INFO: Існуючі потяги успішно завантажено з файлу.
+лист. 30, 2024 2:14:02 AM Command.SaveTrainsToFileMenu execute
+INFO: Додаємо новий потяг з номером: 123
+лист. 30, 2024 2:14:02 AM Command.SaveTrainsToFileMenu execute
+INFO: Вагон додано до потяга з номером: 123
+лист. 30, 2024 2:14:02 AM Command.SaveTrainsToFileMenu execute
+INFO: Вагон додано до потяга з номером: 123
+лист. 30, 2024 2:14:02 AM Command.SaveTrainsToFileMenu execute
+INFO: Потяги успішно збережено у файл.
+лист. 30, 2024 2:14:02 AM Command.CalculateTotalPassengersMenu execute
+INFO: Загальна кількість пасажирів у потязі з номером 1001: 80
+лист. 30, 2024 2:14:02 AM Command.AddTrainMenu execute
+INFO: Потяг з номером 1002 додано.
+лист. 30, 2024 2:14:45 AM Command.DeleteTrainMenu execute
+INFO: Потяг з номером 1001 видалено.
+лист. 30, 2024 2:14:45 AM Command.AddWagonMenu addWagon
+INFO: Вагон успішно додано до потяга номер 1001
+лист. 30, 2024 2:14:45 AM Command.RemoveWagonMenu execute
+INFO: Вагон успішно видалено.
+лист. 30, 2024 2:14:45 AM Command.SaveTrainsToFileMenu execute
+INFO: Існуючі потяги успішно завантажено з файлу.
+лист. 30, 2024 2:14:45 AM Command.SaveTrainsToFileMenu execute
+INFO: Потяг з номером 123 вже існує. Перевіряємо вагони.
+лист. 30, 2024 2:14:45 AM Command.SaveTrainsToFileMenu execute
+INFO: Потяги успішно збережено у файл.
+лист. 30, 2024 2:14:45 AM Command.CalculateTotalPassengersMenu execute
+INFO: Загальна кількість пасажирів у потязі з номером 1001: 80
+лист. 30, 2024 2:14:45 AM Command.AddTrainMenu execute
+INFO: Потяг з номером 1002 додано.
+лист. 30, 2024 2:15:56 AM Command.DeleteTrainMenu execute
+INFO: Потяг з номером 1001 видалено.
+лист. 30, 2024 2:15:56 AM Command.AddWagonMenu addWagon
+INFO: Вагон успішно додано до потяга номер 1001
+лист. 30, 2024 2:15:56 AM Command.RemoveWagonMenu execute
+INFO: Вагон успішно видалено.
+лист. 30, 2024 2:15:56 AM Command.SaveTrainsToFileMenu execute
+INFO: Існуючі потяги успішно завантажено з файлу.
+лист. 30, 2024 2:15:56 AM Command.SaveTrainsToFileMenu execute
+INFO: Додаємо новий потяг з номером: 123
+лист. 30, 2024 2:15:56 AM Command.SaveTrainsToFileMenu execute
+INFO: Вагон додано до потяга з номером: 123
+лист. 30, 2024 2:15:56 AM Command.SaveTrainsToFileMenu execute
+INFO: Вагон додано до потяга з номером: 123
+лист. 30, 2024 2:15:56 AM Command.SaveTrainsToFileMenu execute
+INFO: Потяги успішно збережено у файл.
+лист. 30, 2024 2:15:56 AM Command.CalculateTotalPassengersMenu execute
+INFO: Загальна кількість пасажирів у потязі з номером 1001: 80
+лист. 30, 2024 2:15:56 AM Command.AddTrainMenu execute
+INFO: Потяг з номером 1002 додано.
+лист. 30, 2024 2:16:06 AM Command.AddTrainMenu execute
+INFO: Потяг з номером 101 додано.
+лист. 30, 2024 2:16:10 AM Command.SaveTrainsToFileMenu execute
+INFO: Існуючі потяги успішно завантажено з файлу.
+лист. 30, 2024 2:16:10 AM Command.SaveTrainsToFileMenu execute
+INFO: Додаємо новий потяг з номером: 101
+лист. 30, 2024 2:16:10 AM Command.SaveTrainsToFileMenu execute
+INFO: Потяги успішно збережено у файл.
+лист. 30, 2024 2:16:39 AM Command.SaveTrainsToFileMenu execute
+INFO: Існуючі потяги успішно завантажено з файлу.
+лист. 30, 2024 2:16:39 AM Command.SaveTrainsToFileMenu execute
+INFO: Додаємо новий потяг з номером: 101
+лист. 30, 2024 2:16:39 AM Command.SaveTrainsToFileMenu execute
+INFO: Потяги успішно збережено у файл.
+лист. 30, 2024 2:17:12 AM Command.AddTrainMenu execute
+INFO: Потяг з номером 101 додано.
+лист. 30, 2024 2:17:18 AM Command.AddWagonMenu addWagon
+INFO: Вагон успішно додано до потяга номер 101
+лист. 30, 2024 2:17:20 AM Command.SaveTrainsToFileMenu execute
+INFO: Існуючі потяги успішно завантажено з файлу.
+лист. 30, 2024 2:17:20 AM Command.SaveTrainsToFileMenu execute
+INFO: Додаємо новий потяг з номером: 101
+лист. 30, 2024 2:17:20 AM Command.SaveTrainsToFileMenu execute
+INFO: Вагон додано до потяга з номером: 101
+лист. 30, 2024 2:17:20 AM Command.SaveTrainsToFileMenu execute
+INFO: Потяги успішно збережено у файл.
+лист. 30, 2024 2:27:35 AM logging.LoggerConfig sendCriticalErrorEmail
+SEVERE: Критична помилка: Помилка читання файлу: E:\файл\train.txt (The system cannot find the file specified)
+груд. 05, 2024 8:19:57 PM logging.LoggerConfig sendCriticalErrorEmail
+SEVERE: Критична помилка: Помилка читання файлу: E:\файл\train.txt (The system cannot find the file specified)
+груд. 05, 2024 8:20:54 PM logging.LoggerConfig sendCriticalErrorEmail
+SEVERE: Критична помилка: Помилка читання файлу: E:\файл\train.txt (The system cannot find the file specified)
+груд. 06, 2024 2:15:02 PM Command.DeleteTrainMenu execute
+INFO: Потяг з номером 1001 видалено.
+груд. 06, 2024 2:15:02 PM Command.AddWagonMenu addWagon
+INFO: Вагон успішно додано до потяга номер 1001
+груд. 06, 2024 2:15:02 PM Command.RemoveWagonMenu execute
+INFO: Вагон успішно видалено.
+груд. 06, 2024 2:15:03 PM Command.SaveTrainsToFileMenu execute
+INFO: Існуючі потяги успішно завантажено з файлу.
+груд. 06, 2024 2:15:03 PM Command.SaveTrainsToFileMenu execute
+INFO: Додаємо новий потяг з номером: 123
+груд. 06, 2024 2:15:03 PM Command.SaveTrainsToFileMenu execute
+INFO: Вагон додано до потяга з номером: 123
+груд. 06, 2024 2:15:03 PM Command.SaveTrainsToFileMenu execute
+INFO: Вагон додано до потяга з номером: 123
+груд. 06, 2024 2:15:03 PM Command.SaveTrainsToFileMenu execute
+INFO: Потяги успішно збережено у файл.
+груд. 06, 2024 2:15:03 PM Command.CalculateTotalPassengersMenu execute
+INFO: Загальна кількість пасажирів у потязі з номером 1001: 80
+груд. 06, 2024 2:15:03 PM Command.AddTrainMenu execute
+INFO: Потяг з номером 1002 додано.
+����. 06, 2024 2:15:52 PM Command.AddTrainMenu execute
+INFO: ����� � ������� 1002 ������.
+����. 06, 2024 2:15:52 PM Command.AddWagonMenu addWagon
+INFO: ����� ������ ������ �� ������ ����� 1001
+����. 06, 2024 2:15:52 PM Command.CalculateTotalPassengersMenu execute
+INFO: �������� ������� �������� � ����� � ������� 1001: 80
+����. 06, 2024 2:15:52 PM Command.DeleteTrainMenu execute
+INFO: ����� � ������� 1001 ��������.
+����. 06, 2024 2:15:52 PM Command.RemoveWagonMenu execute
+INFO: ����� ������ ��������.
+����. 06, 2024 2:15:53 PM Command.SaveTrainsToFileMenu execute
+INFO: ������� ������ ������ ����������� � �����.
+����. 06, 2024 2:15:53 PM Command.SaveTrainsToFileMenu execute
+INFO: ������ ����� ����� � �������: 123
+����. 06, 2024 2:15:53 PM Command.SaveTrainsToFileMenu execute
+INFO: ����� ������ �� ������ � �������: 123
+����. 06, 2024 2:15:53 PM Command.SaveTrainsToFileMenu execute
+INFO: ����� ������ �� ������ � �������: 123
+����. 06, 2024 2:15:53 PM Command.SaveTrainsToFileMenu execute
+INFO: ������ ������ ��������� � ����.
+груд. 06, 2024 2:24:10 PM Command.AddTrainMenu execute
+INFO: Потяг з номером 1001 додано.
+груд. 06, 2024 2:35:50 PM logging.LoggerConfig sendCriticalErrorEmail
+SEVERE: Критична помилка: Помилка читання файлу: E:\файл\train.txt (The system cannot find the file specified)

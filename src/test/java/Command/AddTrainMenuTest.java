@@ -19,14 +19,13 @@ class AddTrainMenuTest {
         InputStream originalIn = System.in;
 
         try {
-            // Емуляція вводу користувача
             String simulatedInput = "1002\n";
             System.setIn(new ByteArrayInputStream(simulatedInput.getBytes()));
 
             addTrainMenu.execute();
 
-            assertEquals(1, trains.size(), "Розмір списку потягів має бути 1.");
-            assertEquals(1002, trains.get(0).getTrainNumber(), "Номер потяга має бути 1002.");
+            assertEquals(1, trains.size());
+            assertEquals(1002, trains.get(0).getTrainNumber());
         } finally {
             System.setIn(originalIn);
         }

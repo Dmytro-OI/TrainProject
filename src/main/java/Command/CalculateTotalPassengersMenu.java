@@ -2,10 +2,14 @@ package Command;
 
 import java.util.List;
 import java.util.Scanner;
+import java.util.logging.Logger;
+
+import logging.LoggerConfig;
 import models.PassengerTrain;
 
 class CalculateTotalPassengersMenu implements Command {
     private List<PassengerTrain> trains;
+    private static final Logger logger = LoggerConfig.getLogger();
 
     public CalculateTotalPassengersMenu(List<PassengerTrain> trains) {
         this.trains = trains;
@@ -21,6 +25,7 @@ class CalculateTotalPassengersMenu implements Command {
         if (train != null) {
             int totalPassengers = train.calculateTotalPassengers();
             System.out.println("Загальна кількість пасажирів у потязі з номером " + trainNumber + ": " + totalPassengers);
+            logger.info("Загальна кількість пасажирів у потязі з номером " + trainNumber + ": " + totalPassengers);
         } else {
             System.out.println("Потяг з номером " + trainNumber + " не знайдено.");
         }

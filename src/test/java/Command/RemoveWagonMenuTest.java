@@ -21,7 +21,6 @@ public class RemoveWagonMenuTest {
         PassengerTrain train = new PassengerTrain(1001);
         trains.add(train);
 
-        // Додаємо кілька вагонів до потяга
         Wagon wagon1 = new Wagon(100, 50, 3);
         Wagon wagon2 = new Wagon(200, 100, 5);
         train.addWagon(wagon1);

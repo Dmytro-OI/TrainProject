@@ -1,5 +1,6 @@
 package Command;
 
+import logging.LoggerConfig;
 import models.PassengerTrain;
 import models.Wagon;
 import java.io.*;
@@ -16,11 +17,6 @@ public class LoadTrainsFromFileMenu implements Command {
     public void execute() {
         String filePath = "E:/файл/train.txt";
         File file = new File(filePath);
-
-        if (!file.exists()) {
-            System.out.println("Файл не знайдено!");
-            return;
-        }
 
         try (BufferedReader reader = new BufferedReader(new FileReader(file))) {
             String line;
@@ -48,6 +44,7 @@ public class LoadTrainsFromFileMenu implements Command {
             System.out.println("Потяги були успішно завантажені з файлу.");
         } catch (IOException e) {
             System.out.println("Помилка при читанні з файлу");
+            LoggerConfig.sendCriticalErrorEmail("Помилка читання файлу: " + e.getMessage());
         }
     }
 }

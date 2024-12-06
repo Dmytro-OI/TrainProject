@@ -24,7 +24,7 @@ class AddWagonMenuTest {
         System.setIn(new java.io.ByteArrayInputStream(input.getBytes()));
         addWagonMenu.execute();
 
-        assertEquals(1, train.getWagons().size());  // Перевірка кількості вагонів
+        assertEquals(1, train.getWagons().size());
         Wagon addedWagon = train.getWagons().get(0);
         assertEquals(30, addedWagon.getPassengerCount());
         assertEquals(50, addedWagon.getBaggageCount());
@@ -34,6 +34,6 @@ class AddWagonMenuTest {
         System.setIn(new java.io.ByteArrayInputStream(input.getBytes()));
         addWagonMenu.execute();
 
-        assertEquals(1, train.getWagons().size());  // Кількість вагонів не змінилася
+        assertEquals(1, train.getWagons().size());
     }
 }
